@@ -2,7 +2,7 @@
 
 Death registration data between 2018-2021 for Rajasthan from [Pehchan portal](https://pehchan.raj.nic.in/)
 
-*Note: Pehchan has lower registered deaths compared to CRS report. This data might cover entire data accurately.*
+*Note: Pehchan has lower registered deaths compared to CRS report. This data might not cover entire data accurately.*
 
 Data files
 - [rajasthan-pehchan-state-mortality-2018-2021.csv](rajasthan-pehchan-state-mortality-2018-2021.csv)
@@ -11,11 +11,23 @@ Data files
   - [rajasthan-pehchan-state-mortality-2018-2021-pivot.csv](rajasthan-pehchan-state-mortality-2018-2021-pivot.csv)
   - [rajasthan-pehchan-districts-mortality-2018-2021-pivot.csv](rajasthan-pehchan-districts-mortality-2018-2021-pivot.csv)
 
+#### Cite
+
+```
+@misc{soipvrpm,
+  author = {Pratap Vardhan},
+  title = {Rajasthan Pehchan Mortality},
+  journal = {Stats of India},
+  year = {2021},
+  note = {https://github.com/statsofindia/rajasthan-mortality}
+}
+```
+
 <a target="_blank" href="https://twitter.com/PratapVardhan/status/1411551795403378697">
     <img src="https://pbs.twimg.com/media/E5bS2w-VUAIIjxf?format=jpg" style="max-width:500px;">
 </a>
 
-### Media
+#### In Media
 
 News stories using this data
 
