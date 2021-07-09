@@ -11,7 +11,9 @@ Data files
   - [rajasthan-pehchan-state-mortality-2018-2021-pivot.csv](rajasthan-pehchan-state-mortality-2018-2021-pivot.csv)
   - [rajasthan-pehchan-districts-mortality-2018-2021-pivot.csv](rajasthan-pehchan-districts-mortality-2018-2021-pivot.csv)
 
-![map](assets/map.jpg)
+<a target="_blank" href="https://twitter.com/PratapVardhan/status/1411551795403378697">
+    <img src="https://pbs.twimg.com/media/E5bS2w-VUAIIjxf?format=jpg" style="max-width:500px;">
+</a>
 
 ### Media
 
